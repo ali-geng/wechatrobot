@@ -1,6 +1,6 @@
 # itchat
 
-[![Gitter][gitter-picture]][gitter] ![py27][py27] ![py35][py35] [English version][english-version]
+[![py27][py27] ![py35][py35] [English version][english-version]
 
 itchat是一个开源的微信个人号接口，使用python调用微信从未如此简单。
 增加图灵智能回复，支持个人微信回复，微信群回复，公众号回复
@@ -15,7 +15,7 @@ pip install itchat
 
 ## 简单入门实例
 
-程序中run.py是接入图灵机器人的自动回复，可以自己尝试启动程序
+程序中 **run.py** 是接入图灵机器人的自动回复，可以自己尝试启动程序
 
 有了itchat，如果你想要给文件传输助手发一条信息，只需要这样：
 
